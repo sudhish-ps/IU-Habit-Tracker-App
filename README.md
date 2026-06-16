@@ -30,7 +30,7 @@ No third-party packages are required beyond `pytest` — all other dependencies
 1. **Clone or download** this repository and navigate into the folder:
 
    ```bash
-   cd habit-tracker
+   cd IU-Habit-Tracker-App
    ```
 
 2. **(Recommended) Create and activate a virtual environment:**
